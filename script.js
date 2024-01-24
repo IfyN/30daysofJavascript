@@ -1,4 +1,3 @@
-let spacing = document.getElementById("spacing");
 let blurSlider = document.getElementById("blur");
 let baseSlider = document.getElementById("base");
 let image = document.getElementById("image");
