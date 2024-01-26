@@ -16,7 +16,6 @@ function slideToBlur() {
 
 function slideToSpace() {
   const spaceValue = event.target.value;
-  image.style.margin = `${spaceValue}px`;
   image.style.border = `${spaceValue}px solid`;
 }
 
